@@ -1,0 +1,133 @@
+﻿  Player.cpp
+  CameraController.cpp
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.h(9,24): error C2011: 'CameraController': 'class' 型の再定義
+  (ソース ファイル 'CameraController.cpp' をコンパイルしています)
+  C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.h(9,7):
+  'CameraController' の宣言を確認してください
+  
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\math\MathUtilityForText.h(42,28): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'actor/Player.cpp' をコンパイルしています)
+  
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\math\MathUtilityForText.h(42,28): error C2143: 構文エラー: ',' が '&' の前にありません。
+  (ソース ファイル 'actor/Player.cpp' をコンパイルしています)
+  
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\math\MathUtilityForText.h(42,28): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'CameraController.cpp' をコンパイルしています)
+  
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\math\MathUtilityForText.h(42,28): error C2143: 構文エラー: ',' が '&' の前にありません。
+  (ソース ファイル 'CameraController.cpp' をコンパイルしています)
+  
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(8,24): error C2027: 認識できない型 'CameraController' が使われています。
+  C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.h(9,7):
+  'CameraController' の宣言を確認してください
+  
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(9,2): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(13,24): error C2027: 認識できない型 'CameraController' が使われています。
+  C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.h(9,7):
+  'CameraController' の宣言を確認してください
+  
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(16,47): error C2065: 'target_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(16,45): error C2530: 'targetWorldTransform': 参照が初期化されずに宣言されています。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(17,27): error C2065: 'target_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(19,2): error C2065: 'destination_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(19,57): error C2065: 'targetOffset_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(19,94): error C2065: 'targetOffset_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(20,2): error C2065: 'destination_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(20,57): error C2065: 'targetOffset_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(20,94): error C2065: 'targetOffset_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(21,2): error C2065: 'destination_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(21,57): error C2065: 'targetOffset_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(21,94): error C2065: 'targetOffset_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(23,2): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(23,40): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(23,71): error C2065: 'destination_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(23,87): error C2065: 'kInterpolationRate_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(23,35): error C2661: 'Lerp': 2 個の引数を伴うオーバーロードされた関数はありません。
+  C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(23,35):
+  引数リスト '()' を一致させようとしているとき
+  
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(24,2): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(24,40): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(24,72): error C2065: 'destination_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(24,88): error C2065: 'kInterpolationRate_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(24,35): error C2661: 'Lerp': 2 個の引数を伴うオーバーロードされた関数はありません。
+  C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(24,35):
+  引数リスト '()' を一致させようとしているとき
+  
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(25,2): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(25,40): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(25,72): error C2065: 'destination_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(25,88): error C2065: 'kInterpolationRate_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(25,35): error C2661: 'Lerp': 2 個の引数を伴うオーバーロードされた関数はありません。
+  C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(25,35):
+  引数リスト '()' を一致させようとしているとき
+  
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(28,5): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(29,17): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(29,87): error C2065: 'targetMargin': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(29,144): error C2065: 'targetMargin': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(29,11): error C2672: 'std::clamp': 一致するオーバーロードされた関数が見つかりませんでした。
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(10453,33):
+  'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &)' の可能性があります
+  	C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(29,11):
+  	'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &)': 3 引数が必要です - 1 が指定されました
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(10425,33):
+  または 'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &,_Pr)'
+  	C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(29,11):
+  	'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &,_Pr)': 4 引数が必要です - 1 が指定されました
+  
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(31,2): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(31,46): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(31,116): error C2065: 'targetMargin': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(31,175): error C2065: 'targetMargin': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(31,40): error C2672: 'std::clamp': 一致するオーバーロードされた関数が見つかりませんでした。
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(10453,33):
+  'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &)' の可能性があります
+  	C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(31,40):
+  	'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &)': 3 引数が必要です - 1 が指定されました
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(10425,33):
+  または 'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &,_Pr)'
+  	C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(31,40):
+  	'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &,_Pr)': 4 引数が必要です - 1 が指定されました
+  
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(33,2): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(33,46): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(33,78): error C2065: 'movableArea_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(33,97): error C2065: 'movableArea_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(33,40): error C2672: 'std::clamp': 一致するオーバーロードされた関数が見つかりませんでした。
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(10453,33):
+  'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &)' の可能性があります
+  	C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(33,40):
+  	'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &)': 3 引数が必要です - 1 が指定されました
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(10425,33):
+  または 'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &,_Pr)'
+  	C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(33,40):
+  	'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &,_Pr)': 4 引数が必要です - 1 が指定されました
+  
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(34,2): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(34,46): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(34,78): error C2065: 'movableArea_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(34,99): error C2065: 'movableArea_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(34,40): error C2672: 'std::clamp': 一致するオーバーロードされた関数が見つかりませんでした。
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(10453,33):
+  'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &)' の可能性があります
+  	C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(34,40):
+  	'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &)': 3 引数が必要です - 1 が指定されました
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(10425,33):
+  または 'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &,_Pr)'
+  	C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(34,40):
+  	'const _Ty &std::clamp(const _Ty &,const _Ty &,const _Ty &,_Pr)': 4 引数が必要です - 1 が指定されました
+  
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(37,2): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(40,24): error C2027: 認識できない型 'CameraController' が使われています。
+  C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.h(9,7):
+  'CameraController' の宣言を確認してください
+  
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(43,47): error C2065: 'target_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(43,45): error C2530: 'targetWorldTransform': 参照が初期化されずに宣言されています。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(46,2): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(46,73): error C2065: 'targetOffset_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(47,2): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(47,73): error C2065: 'targetOffset_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(48,2): error C2065: 'viewProjection_': 定義されていない識別子です。
+C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_new\DirectXGame\CameraController.cpp(48,73): error C2065: 'targetOffset_': 定義されていない識別子です。

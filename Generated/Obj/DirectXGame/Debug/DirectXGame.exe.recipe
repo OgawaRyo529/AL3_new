@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_Re\Generated\Outputs\Debug\DirectXGame.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_Re\Generated\Outputs\Debug\TerrainPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_Re\Generated\Outputs\Debug\TerrainVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_Re\Generated\Outputs\Debug\ObjPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_Re\Generated\Outputs\Debug\ObjVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_Re\Generated\Outputs\Debug\PrimitivePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_Re\Generated\Outputs\Debug\PrimitiveVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_Re\Generated\Outputs\Debug\ShapePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_Re\Generated\Outputs\Debug\ShapeVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_Re\Generated\Outputs\Debug\SpritePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\ryoma\OneDrive\ドキュメント\GitHub\AL3_Re\Generated\Outputs\Debug\SpriteVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
